@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="64dp"
+        android:background="#FFFFBB33"
+        android:text="Create new group"
+        android:textColor="#FFFFFF"
+        android:textSize="30dp"
+        android:textStyle="bold" 
+        android:gravity="center"/>
+
+    <LinearLayout
+        android:id="@+id/llGroupName"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:orientation="horizontal" >
+
+        <TextView
+            android:id="@+id/lblGroupName"
+            android:layout_width="80dp"
+            android:layout_height="wrap_content"
+            android:text="Name" />
+
+        <EditText
+            android:id="@+id/txtGroupName"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="0.9"
+            android:hint="Group name" >
+        </EditText>
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/lblGroupDescription"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:orientation="horizontal" >
+
+        <TextView
+            android:id="@+id/lblGroupDescription"
+            android:layout_width="80dp"
+            android:layout_height="wrap_content"
+            android:text="Description" />
+
+        <EditText
+            android:id="@+id/txtGroupDescription"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="0.9"
+            android:hint="Group description" >
+        </EditText>
+    </LinearLayout>
+
+</LinearLayout>

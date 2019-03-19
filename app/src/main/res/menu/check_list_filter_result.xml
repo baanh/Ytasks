@@ -1,0 +1,8 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item 
+        android:id="@+id/action_new_check_list"
+        android:icon="@drawable/btn_plus"
+        android:showAsAction="ifRoom"/>
+
+</menu>

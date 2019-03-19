@@ -1,0 +1,180 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Volumes/DATA/ytasks/YtasksAndroidStudio/app/src/main/AndroidManifest.xml:2:1-116:12
+INJECTED from /Volumes/DATA/ytasks/YtasksAndroidStudio/app/src/main/AndroidManifest.xml:2:1-116:12
+INJECTED from /Volumes/DATA/ytasks/YtasksAndroidStudio/app/src/main/AndroidManifest.xml:2:1-116:12
+INJECTED from /Volumes/DATA/ytasks/YtasksAndroidStudio/app/src/main/AndroidManifest.xml:2:1-116:12
+MERGED from [com.android.support:gridlayout-v7:18.0.0] /Users/admin/.gradle/caches/transforms-1/files-1.1/gridlayout-v7-18.0.0.aar/2b9e78ad7153119d215b5d846f94447a/AndroidManifest.xml:16:1-20:12
+INJECTED from /Volumes/DATA/ytasks/YtasksAndroidStudio/app/src/main/AndroidManifest.xml:2:1-116:12
+INJECTED from /Volumes/DATA/ytasks/YtasksAndroidStudio/app/src/main/AndroidManifest.xml:2:1-116:12
+INJECTED from /Volumes/DATA/ytasks/YtasksAndroidStudio/app/src/main/AndroidManifest.xml:2:1-116:12
+	package
+		ADDED from /Volumes/DATA/ytasks/YtasksAndroidStudio/app/src/main/AndroidManifest.xml:3:5-32
+		INJECTED from /Volumes/DATA/ytasks/YtasksAndroidStudio/app/src/main/AndroidManifest.xml
+		INJECTED from /Volumes/DATA/ytasks/YtasksAndroidStudio/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Volumes/DATA/ytasks/YtasksAndroidStudio/app/src/main/AndroidManifest.xml:5:5-30
+		INJECTED from /Volumes/DATA/ytasks/YtasksAndroidStudio/app/src/main/AndroidManifest.xml
+		INJECTED from /Volumes/DATA/ytasks/YtasksAndroidStudio/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Volumes/DATA/ytasks/YtasksAndroidStudio/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from /Volumes/DATA/ytasks/YtasksAndroidStudio/app/src/main/AndroidManifest.xml:4:5-28
+		INJECTED from /Volumes/DATA/ytasks/YtasksAndroidStudio/app/src/main/AndroidManifest.xml
+		INJECTED from /Volumes/DATA/ytasks/YtasksAndroidStudio/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.WAKE_LOCK
+ADDED from /Volumes/DATA/ytasks/YtasksAndroidStudio/app/src/main/AndroidManifest.xml:7:5-68
+	android:name
+		ADDED from /Volumes/DATA/ytasks/YtasksAndroidStudio/app/src/main/AndroidManifest.xml:7:22-65
+uses-permission#android.permission.SEND_SMS
+ADDED from /Volumes/DATA/ytasks/YtasksAndroidStudio/app/src/main/AndroidManifest.xml:8:5-67
+	android:name
+		ADDED from /Volumes/DATA/ytasks/YtasksAndroidStudio/app/src/main/AndroidManifest.xml:8:22-64
+uses-permission#android.permission.READ_CONTACTS
+ADDED from /Volumes/DATA/ytasks/YtasksAndroidStudio/app/src/main/AndroidManifest.xml:9:5-72
+	android:name
+		ADDED from /Volumes/DATA/ytasks/YtasksAndroidStudio/app/src/main/AndroidManifest.xml:9:22-69
+uses-permission#com.android.alarm.permission.SET_ALARM
+ADDED from /Volumes/DATA/ytasks/YtasksAndroidStudio/app/src/main/AndroidManifest.xml:10:5-78
+	android:name
+		ADDED from /Volumes/DATA/ytasks/YtasksAndroidStudio/app/src/main/AndroidManifest.xml:10:22-75
+application
+ADDED from /Volumes/DATA/ytasks/YtasksAndroidStudio/app/src/main/AndroidManifest.xml:12:5-114:19
+MERGED from [com.android.support:gridlayout-v7:18.0.0] /Users/admin/.gradle/caches/transforms-1/files-1.1/gridlayout-v7-18.0.0.aar/2b9e78ad7153119d215b5d846f94447a/AndroidManifest.xml:19:5-20
+MERGED from [com.android.support:gridlayout-v7:18.0.0] /Users/admin/.gradle/caches/transforms-1/files-1.1/gridlayout-v7-18.0.0.aar/2b9e78ad7153119d215b5d846f94447a/AndroidManifest.xml:19:5-20
+	android:label
+		ADDED from /Volumes/DATA/ytasks/YtasksAndroidStudio/app/src/main/AndroidManifest.xml:15:9-41
+	android:icon
+		ADDED from /Volumes/DATA/ytasks/YtasksAndroidStudio/app/src/main/AndroidManifest.xml:14:9-52
+	android:allowBackup
+		ADDED from /Volumes/DATA/ytasks/YtasksAndroidStudio/app/src/main/AndroidManifest.xml:13:9-35
+	android:theme
+		ADDED from /Volumes/DATA/ytasks/YtasksAndroidStudio/app/src/main/AndroidManifest.xml:16:9-40
+service#ttcnpm.dha.service.AlarmService
+ADDED from /Volumes/DATA/ytasks/YtasksAndroidStudio/app/src/main/AndroidManifest.xml:17:9-18:19
+	android:name
+		ADDED from /Volumes/DATA/ytasks/YtasksAndroidStudio/app/src/main/AndroidManifest.xml:17:18-64
+receiver#ttcnpm.dha.service.Alarm
+ADDED from /Volumes/DATA/ytasks/YtasksAndroidStudio/app/src/main/AndroidManifest.xml:20:9-23:20
+	android:process
+		ADDED from /Volumes/DATA/ytasks/YtasksAndroidStudio/app/src/main/AndroidManifest.xml:22:13-38
+	android:name
+		ADDED from /Volumes/DATA/ytasks/YtasksAndroidStudio/app/src/main/AndroidManifest.xml:21:13-52
+activity#ttcnpm.dha.ytasks.LoginActivity
+ADDED from /Volumes/DATA/ytasks/YtasksAndroidStudio/app/src/main/AndroidManifest.xml:25:9-33:20
+	android:label
+		ADDED from /Volumes/DATA/ytasks/YtasksAndroidStudio/app/src/main/AndroidManifest.xml:27:13-45
+	android:name
+		ADDED from /Volumes/DATA/ytasks/YtasksAndroidStudio/app/src/main/AndroidManifest.xml:26:13-59
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Volumes/DATA/ytasks/YtasksAndroidStudio/app/src/main/AndroidManifest.xml:28:13-32:29
+action#android.intent.action.MAIN
+ADDED from /Volumes/DATA/ytasks/YtasksAndroidStudio/app/src/main/AndroidManifest.xml:29:17-69
+	android:name
+		ADDED from /Volumes/DATA/ytasks/YtasksAndroidStudio/app/src/main/AndroidManifest.xml:29:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Volumes/DATA/ytasks/YtasksAndroidStudio/app/src/main/AndroidManifest.xml:31:17-77
+	android:name
+		ADDED from /Volumes/DATA/ytasks/YtasksAndroidStudio/app/src/main/AndroidManifest.xml:31:27-74
+activity#ttcnpm.dha.ytasks.FolderActivity
+ADDED from /Volumes/DATA/ytasks/YtasksAndroidStudio/app/src/main/AndroidManifest.xml:34:9-41:20
+	android:parentActivityName
+		ADDED from /Volumes/DATA/ytasks/YtasksAndroidStudio/app/src/main/AndroidManifest.xml:37:13-73
+	android:label
+		ADDED from /Volumes/DATA/ytasks/YtasksAndroidStudio/app/src/main/AndroidManifest.xml:36:13-58
+	android:name
+		ADDED from /Volumes/DATA/ytasks/YtasksAndroidStudio/app/src/main/AndroidManifest.xml:35:13-60
+meta-data#android.support.PARENT_ACTIVITY
+ADDED from /Volumes/DATA/ytasks/YtasksAndroidStudio/app/src/main/AndroidManifest.xml:38:13-40:67
+	android:value
+		ADDED from /Volumes/DATA/ytasks/YtasksAndroidStudio/app/src/main/AndroidManifest.xml:40:17-64
+	android:name
+		ADDED from /Volumes/DATA/ytasks/YtasksAndroidStudio/app/src/main/AndroidManifest.xml:39:17-63
+activity#ttcnpm.dha.ytasks.CheckListActivity
+ADDED from /Volumes/DATA/ytasks/YtasksAndroidStudio/app/src/main/AndroidManifest.xml:42:9-49:20
+	android:parentActivityName
+		ADDED from /Volumes/DATA/ytasks/YtasksAndroidStudio/app/src/main/AndroidManifest.xml:45:13-76
+	android:label
+		ADDED from /Volumes/DATA/ytasks/YtasksAndroidStudio/app/src/main/AndroidManifest.xml:44:13-58
+	android:name
+		ADDED from /Volumes/DATA/ytasks/YtasksAndroidStudio/app/src/main/AndroidManifest.xml:43:13-63
+activity#ttcnpm.dha.ytasks.TaskActivity
+ADDED from /Volumes/DATA/ytasks/YtasksAndroidStudio/app/src/main/AndroidManifest.xml:50:9-57:20
+	android:parentActivityName
+		ADDED from /Volumes/DATA/ytasks/YtasksAndroidStudio/app/src/main/AndroidManifest.xml:53:13-76
+	android:label
+		ADDED from /Volumes/DATA/ytasks/YtasksAndroidStudio/app/src/main/AndroidManifest.xml:52:13-56
+	android:name
+		ADDED from /Volumes/DATA/ytasks/YtasksAndroidStudio/app/src/main/AndroidManifest.xml:51:13-58
+activity#ttcnpm.dha.ytasks.NewTaskActivity
+ADDED from /Volumes/DATA/ytasks/YtasksAndroidStudio/app/src/main/AndroidManifest.xml:58:9-65:20
+	android:parentActivityName
+		ADDED from /Volumes/DATA/ytasks/YtasksAndroidStudio/app/src/main/AndroidManifest.xml:61:13-74
+	android:label
+		ADDED from /Volumes/DATA/ytasks/YtasksAndroidStudio/app/src/main/AndroidManifest.xml:60:13-60
+	android:name
+		ADDED from /Volumes/DATA/ytasks/YtasksAndroidStudio/app/src/main/AndroidManifest.xml:59:13-61
+activity#ttcnpm.dha.ytasks.NewAccountActivity
+ADDED from /Volumes/DATA/ytasks/YtasksAndroidStudio/app/src/main/AndroidManifest.xml:66:9-73:20
+	android:parentActivityName
+		ADDED from /Volumes/DATA/ytasks/YtasksAndroidStudio/app/src/main/AndroidManifest.xml:69:13-73
+	android:label
+		ADDED from /Volumes/DATA/ytasks/YtasksAndroidStudio/app/src/main/AndroidManifest.xml:68:13-63
+	android:name
+		ADDED from /Volumes/DATA/ytasks/YtasksAndroidStudio/app/src/main/AndroidManifest.xml:67:13-64
+activity#ttcnpm.dha.ytasks.GroupJobActivity
+ADDED from /Volumes/DATA/ytasks/YtasksAndroidStudio/app/src/main/AndroidManifest.xml:74:9-81:20
+	android:parentActivityName
+		ADDED from /Volumes/DATA/ytasks/YtasksAndroidStudio/app/src/main/AndroidManifest.xml:77:13-76
+	android:label
+		ADDED from /Volumes/DATA/ytasks/YtasksAndroidStudio/app/src/main/AndroidManifest.xml:76:13-61
+	android:name
+		ADDED from /Volumes/DATA/ytasks/YtasksAndroidStudio/app/src/main/AndroidManifest.xml:75:13-62
+activity#ttcnpm.dha.ytasks.NewCheckListActivity
+ADDED from /Volumes/DATA/ytasks/YtasksAndroidStudio/app/src/main/AndroidManifest.xml:82:9-89:20
+	android:parentActivityName
+		ADDED from /Volumes/DATA/ytasks/YtasksAndroidStudio/app/src/main/AndroidManifest.xml:85:13-76
+	android:label
+		ADDED from /Volumes/DATA/ytasks/YtasksAndroidStudio/app/src/main/AndroidManifest.xml:84:13-66
+	android:name
+		ADDED from /Volumes/DATA/ytasks/YtasksAndroidStudio/app/src/main/AndroidManifest.xml:83:13-66
+activity#ttcnpm.dha.ytasks.CategoryActivity
+ADDED from /Volumes/DATA/ytasks/YtasksAndroidStudio/app/src/main/AndroidManifest.xml:90:9-97:20
+	android:parentActivityName
+		ADDED from /Volumes/DATA/ytasks/YtasksAndroidStudio/app/src/main/AndroidManifest.xml:93:13-73
+	android:label
+		ADDED from /Volumes/DATA/ytasks/YtasksAndroidStudio/app/src/main/AndroidManifest.xml:92:13-58
+	android:name
+		ADDED from /Volumes/DATA/ytasks/YtasksAndroidStudio/app/src/main/AndroidManifest.xml:91:13-62
+activity#ttcnpm.dha.ytasks.EditTaskActivity
+ADDED from /Volumes/DATA/ytasks/YtasksAndroidStudio/app/src/main/AndroidManifest.xml:98:9-105:20
+	android:parentActivityName
+		ADDED from /Volumes/DATA/ytasks/YtasksAndroidStudio/app/src/main/AndroidManifest.xml:101:13-72
+	android:label
+		ADDED from /Volumes/DATA/ytasks/YtasksAndroidStudio/app/src/main/AndroidManifest.xml:100:13-61
+	android:name
+		ADDED from /Volumes/DATA/ytasks/YtasksAndroidStudio/app/src/main/AndroidManifest.xml:99:13-62
+activity#ttcnpm.dha.ytasks.CheckListDetailActivity
+ADDED from /Volumes/DATA/ytasks/YtasksAndroidStudio/app/src/main/AndroidManifest.xml:106:9-113:20
+	android:parentActivityName
+		ADDED from /Volumes/DATA/ytasks/YtasksAndroidStudio/app/src/main/AndroidManifest.xml:109:13-77
+	android:label
+		ADDED from /Volumes/DATA/ytasks/YtasksAndroidStudio/app/src/main/AndroidManifest.xml:108:13-69
+	android:name
+		ADDED from /Volumes/DATA/ytasks/YtasksAndroidStudio/app/src/main/AndroidManifest.xml:107:13-69
+uses-sdk
+INJECTED from /Volumes/DATA/ytasks/YtasksAndroidStudio/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Volumes/DATA/ytasks/YtasksAndroidStudio/app/src/main/AndroidManifest.xml
+INJECTED from /Volumes/DATA/ytasks/YtasksAndroidStudio/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:gridlayout-v7:18.0.0] /Users/admin/.gradle/caches/transforms-1/files-1.1/gridlayout-v7-18.0.0.aar/2b9e78ad7153119d215b5d846f94447a/AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:gridlayout-v7:18.0.0] /Users/admin/.gradle/caches/transforms-1/files-1.1/gridlayout-v7-18.0.0.aar/2b9e78ad7153119d215b5d846f94447a/AndroidManifest.xml:18:5-42
+INJECTED from /Volumes/DATA/ytasks/YtasksAndroidStudio/app/src/main/AndroidManifest.xml
+INJECTED from /Volumes/DATA/ytasks/YtasksAndroidStudio/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Volumes/DATA/ytasks/YtasksAndroidStudio/app/src/main/AndroidManifest.xml
+		ADDED from /Volumes/DATA/ytasks/YtasksAndroidStudio/app/src/main/AndroidManifest.xml
+		INJECTED from /Volumes/DATA/ytasks/YtasksAndroidStudio/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Volumes/DATA/ytasks/YtasksAndroidStudio/app/src/main/AndroidManifest.xml
+		ADDED from /Volumes/DATA/ytasks/YtasksAndroidStudio/app/src/main/AndroidManifest.xml
+		INJECTED from /Volumes/DATA/ytasks/YtasksAndroidStudio/app/src/main/AndroidManifest.xml

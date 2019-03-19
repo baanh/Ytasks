@@ -1,0 +1,191 @@
+
+   <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/LinearLayout1"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+     tools:context=".NewAccountActivity" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:gravity="center_vertical" >
+
+        <TextView
+            android:id="@+id/textView1"
+            android:layout_width="80dp"
+            android:layout_height="wrap_content"
+            android:text="@string/lbl_email" />
+
+        <EditText
+            android:id="@+id/newEmailField"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:ems="10"
+            android:inputType="textEmailAddress" 
+            android:hint="@string/hint_edittext_login_name">
+
+            <requestFocus />
+        </EditText>
+
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:gravity="center_vertical" >
+
+        <TextView
+            android:id="@+id/textView1"
+            android:layout_width="80dp"
+            android:layout_height="wrap_content"
+            android:text="@string/lbl_password" />
+
+        <EditText
+            android:id="@+id/newPassField"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:ems="10"
+            android:inputType="textPassword" 
+            android:hint="@string/hint_edittext_login_pass">
+
+            <requestFocus />
+        </EditText>
+
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:gravity="center_vertical" >
+        <TextView
+            android:id="@+id/textView1"
+            android:layout_width="80dp"
+            android:layout_height="wrap_content"
+            android:text="@string/lbl_first_name" />
+
+        <EditText
+            android:id="@+id/newFirstNameField"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:ems="10"
+            android:inputType="textPersonName">
+
+            <requestFocus />
+        </EditText>
+
+    </LinearLayout>
+    
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:gravity="center_vertical" >
+
+        <TextView
+            android:id="@+id/textView1"
+            android:layout_width="80dp"
+            android:layout_height="wrap_content"
+            android:text="@string/lbl_last_name"></TextView>
+
+        <EditText
+            android:id="@+id/newLastNameField"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:ems="10"
+            android:inputType="textPersonName">
+
+            <requestFocus />
+        </EditText>
+
+    </LinearLayout>
+    
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:gravity="center_vertical" >
+
+        <TextView
+            android:id="@+id/textView1"
+            android:layout_width="80dp"
+            android:layout_height="wrap_content"
+            android:text="@string/lbl_birthday" />
+
+        <EditText
+            android:id="@+id/editTextBirthday"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:ems="10"
+            android:inputType="date"
+            android:onClick="showDatePickerDialog"/>
+
+    </LinearLayout>
+    
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:gravity="center_vertical" >
+
+        <TextView
+            android:id="@+id/textView1"
+            android:layout_width="80dp"
+            android:layout_height="wrap_content"
+            android:text="@string/lbl_phone" />
+
+        <EditText
+            android:id="@+id/newPhoneField"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:ems="10"
+            android:inputType="phone">
+
+            <requestFocus />
+        </EditText>
+
+    </LinearLayout>
+    
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:gravity="center_vertical" >
+
+        <TextView
+            android:id="@+id/textView1"
+            android:layout_width="80dp"
+            android:layout_height="wrap_content"
+            android:text="@string/lbl_facebook" />
+
+        <EditText
+            android:id="@+id/newFacebookField"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:ems="10"
+            android:inputType="textPersonName">
+
+            <requestFocus />
+        </EditText>
+
+    </LinearLayout>
+
+   
+
+    <Button
+        android:id="@+id/btnSaveNewAccount"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/btn_lbl_save" 
+        android:background="@drawable/btn_login"
+        android:textColor="#FFFFFF"
+        android:onClick="saveNewEmployee"/>
+
+</LinearLayout>
+

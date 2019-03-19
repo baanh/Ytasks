@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="com.android.support:gridlayout-v7:18.0.0$Generated" generated="true" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="/Users/admin/.gradle/caches/transforms-1/files-1.1/gridlayout-v7-18.0.0.aar/2b9e78ad7153119d215b5d846f94447a/res"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="com.android.support:gridlayout-v7:18.0.0" from-dependency="true" generated-set="com.android.support:gridlayout-v7:18.0.0$Generated" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="/Users/admin/.gradle/caches/transforms-1/files-1.1/gridlayout-v7-18.0.0.aar/2b9e78ad7153119d215b5d846f94447a/res"><file path="/Users/admin/.gradle/caches/transforms-1/files-1.1/gridlayout-v7-18.0.0.aar/2b9e78ad7153119d215b5d846f94447a/res/values/values.xml" qualifiers=""><declare-styleable name="GridLayout">
+
+        
+
+
+        
+        <attr name="orientation">
+
+            
+            <enum name="horizontal" value="0"/>
+            
+            <enum name="vertical" value="1"/>
+        </attr>
+        
+        <attr format="integer" name="rowCount"/>
+        
+        <attr format="integer" name="columnCount"/>
+        
+        <attr format="boolean" name="useDefaultMargins"/>
+        
+        <attr name="alignmentMode">
+
+            
+            <enum name="alignBounds" value="0"/>
+            
+            <enum name="alignMargins" value="1"/>
+        </attr>
+        
+        <attr format="boolean" name="rowOrderPreserved"/>
+        
+        <attr format="boolean" name="columnOrderPreserved"/>
+    </declare-styleable><declare-styleable name="GridLayout_Layout">
+
+        
+
+
+        
+
+        <attr name="android:layout_width"/>
+        <attr name="android:layout_height"/>
+        
+        <attr name="android:layout_margin"/>
+        
+        <attr name="android:layout_marginLeft"/>
+        
+        <attr name="android:layout_marginTop"/>
+        
+        <attr name="android:layout_marginRight"/>
+        
+        <attr name="android:layout_marginBottom"/>
+
+        
+
+
+        
+        <attr format="integer" name="layout_row"/>
+        
+        <attr format="integer" min="1" name="layout_rowSpan"/>
+        
+        <attr format="integer" name="layout_column"/>
+        
+        <attr format="integer" min="1" name="layout_columnSpan"/>
+        
+        <attr name="layout_gravity">
+
+            
+            <flag name="top" value="0x30"/>
+            
+            <flag name="bottom" value="0x50"/>
+            
+            <flag name="left" value="0x03"/>
+            
+            <flag name="right" value="0x05"/>
+            
+            <flag name="center_vertical" value="0x10"/>
+            
+            <flag name="fill_vertical" value="0x70"/>
+            
+            <flag name="center_horizontal" value="0x01"/>
+            
+            <flag name="fill_horizontal" value="0x07"/>
+            
+            <flag name="center" value="0x11"/>
+            
+            <flag name="fill" value="0x77"/>
+            
+            <flag name="clip_vertical" value="0x80"/>
+            
+            <flag name="clip_horizontal" value="0x08"/>
+            
+            <flag name="start" value="0x00800003"/>
+            
+            <flag name="end" value="0x00800005"/>
+        </attr>
+    </declare-styleable><dimen name="default_gap">16dip</dimen></file></source></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="main$Generated" generated="true" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="/Volumes/DATA/ytasks/YtasksAndroidStudio/app/src/main/res"/><source path="/Volumes/DATA/ytasks/YtasksAndroidStudio/app/build/generated/res/rs/debug"/><source path="/Volumes/DATA/ytasks/YtasksAndroidStudio/app/build/generated/res/resValues/debug"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="main" generated-set="main$Generated" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="/Volumes/DATA/ytasks/YtasksAndroidStudio/app/src/main/res"><file name="app_logo" path="/Volumes/DATA/ytasks/YtasksAndroidStudio/app/src/main/res/drawable/app_logo.png" qualifiers="" type="drawable"/><file name="background" path="/Volumes/DATA/ytasks/YtasksAndroidStudio/app/src/main/res/drawable/background.png" qualifiers="" type="drawable"/><file name="background_white" path="/Volumes/DATA/ytasks/YtasksAndroidStudio/app/src/main/res/drawable/background_white.xml" qualifiers="" type="drawable"/><file name="btn_del" path="/Volumes/DATA/ytasks/YtasksAndroidStudio/app/src/main/res/drawable/btn_del.xml" qualifiers="" type="drawable"/><file name="btn_login" path="/Volumes/DATA/ytasks/YtasksAndroidStudio/app/src/main/res/drawable/btn_login.xml" qualifiers="" type="drawable"/><file name="btn_plus" path="/Volumes/DATA/ytasks/YtasksAndroidStudio/app/src/main/res/drawable/btn_plus.png" qualifiers="" type="drawable"/><file name="ic_folder" path="/Volumes/DATA/ytasks/YtasksAndroidStudio/app/src/main/res/drawable/ic_folder.png" qualifiers="" type="drawable"/><file name="s" path="/Volumes/DATA/ytasks/YtasksAndroidStudio/app/src/main/res/drawable/s.9.png" qualifiers="" type="drawable"/><file name="step_item" path="/Volumes/DATA/ytasks/YtasksAndroidStudio/app/src/main/res/drawable/step_item.xml" qualifiers="" type="drawable"/><file name="ytaskname" path="/Volumes/DATA/ytasks/YtasksAndroidStudio/app/src/main/res/drawable/ytaskname.png" qualifiers="" type="drawable"/><file name="btn_plus" path="/Volumes/DATA/ytasks/YtasksAndroidStudio/app/src/main/res/drawable-hdpi/btn_plus.png" qualifiers="hdpi-v4" type="drawable"/><file name="ic_launcher_ytasks" path="/Volumes/DATA/ytasks/YtasksAndroidStudio/app/src/main/res/drawable-hdpi/ic_launcher_ytasks.png" qualifiers="hdpi-v4" type="drawable"/><file name="ic_ytasks" path="/Volumes/DATA/ytasks/YtasksAndroidStudio/app/src/main/res/drawable-hdpi/ic_ytasks.png" qualifiers="hdpi-v4" type="drawable"/><file name="ic_launcher_ytasks" path="/Volumes/DATA/ytasks/YtasksAndroidStudio/app/src/main/res/drawable-ldpi/ic_launcher_ytasks.png" qualifiers="ldpi-v4" type="drawable"/><file name="ic_ytasks" path="/Volumes/DATA/ytasks/YtasksAndroidStudio/app/src/main/res/drawable-ldpi/ic_ytasks.png" qualifiers="ldpi-v4" type="drawable"/><file name="btn_plus" path="/Volumes/DATA/ytasks/YtasksAndroidStudio/app/src/main/res/drawable-mdpi/btn_plus.png" qualifiers="mdpi-v4" type="drawable"/><file name="btn_plus_mdpi" path="/Volumes/DATA/ytasks/YtasksAndroidStudio/app/src/main/res/drawable-mdpi/btn_plus_mdpi.png" qualifiers="mdpi-v4" type="drawable"/><file name="ic_launcher_ytasks" path="/Volumes/DATA/ytasks/YtasksAndroidStudio/app/src/main/res/drawable-mdpi/ic_launcher_ytasks.png" qualifiers="mdpi-v4" type="drawable"/><file name="ic_ytasks" path="/Volumes/DATA/ytasks/YtasksAndroidStudio/app/src/main/res/drawable-mdpi/ic_ytasks.png" qualifiers="mdpi-v4" type="drawable"/><file name="btn_plus" path="/Volumes/DATA/ytasks/YtasksAndroidStudio/app/src/main/res/drawable-xhdpi/btn_plus.png" qualifiers="xhdpi-v4" type="drawable"/><file name="ic_launcher_ytasks" path="/Volumes/DATA/ytasks/YtasksAndroidStudio/app/src/main/res/drawable-xhdpi/ic_launcher_ytasks.png" qualifiers="xhdpi-v4" type="drawable"/><file name="ic_ytasks" path="/Volumes/DATA/ytasks/YtasksAndroidStudio/app/src/main/res/drawable-xhdpi/ic_ytasks.png" qualifiers="xhdpi-v4" type="drawable"/><file name="btn_plus" path="/Volumes/DATA/ytasks/YtasksAndroidStudio/app/src/main/res/drawable-xxhdpi/btn_plus.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="ic_launcher_ytasks" path="/Volumes/DATA/ytasks/YtasksAndroidStudio/app/src/main/res/drawable-xxhdpi/ic_launcher_ytasks.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="ic_ytasks" path="/Volumes/DATA/ytasks/YtasksAndroidStudio/app/src/main/res/drawable-xxhdpi/ic_ytasks.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="activity_check_list_detail" path="/Volumes/DATA/ytasks/YtasksAndroidStudio/app/src/main/res/layout/activity_check_list_detail.xml" qualifiers="" type="layout"/><file name="activity_check_list_filter_result" path="/Volumes/DATA/ytasks/YtasksAndroidStudio/app/src/main/res/layout/activity_check_list_filter_result.xml" qualifiers="" type="layout"/><file name="activity_edit_task" path="/Volumes/DATA/ytasks/YtasksAndroidStudio/app/src/main/res/layout/activity_edit_task.xml" qualifiers="" type="layout"/><file name="activity_folder" path="/Volumes/DATA/ytasks/YtasksAndroidStudio/app/src/main/res/layout/activity_folder.xml" qualifiers="" type="layout"/><file name="activity_group_job" path="/Volumes/DATA/ytasks/YtasksAndroidStudio/app/src/main/res/layout/activity_group_job.xml" qualifiers="" type="layout"/><file name="activity_login" path="/Volumes/DATA/ytasks/YtasksAndroidStudio/app/src/main/res/layout/activity_login.xml" qualifiers="" type="layout"/><file name="activity_new_account" path="/Volumes/DATA/ytasks/YtasksAndroidStudio/app/src/main/res/layout/activity_new_account.xml" qualifiers="" type="layout"/><file name="activity_new_check_list" path="/Volumes/DATA/ytasks/YtasksAndroidStudio/app/src/main/res/layout/activity_new_check_list.xml" qualifiers="" type="layout"/><file name="activity_new_task" path="/Volumes/DATA/ytasks/YtasksAndroidStudio/app/src/main/res/layout/activity_new_task.xml" qualifiers="" type="layout"/><file name="activity_task" path="/Volumes/DATA/ytasks/YtasksAndroidStudio/app/src/main/res/layout/activity_task.xml" qualifiers="" type="layout"/><file name="category" path="/Volumes/DATA/ytasks/YtasksAndroidStudio/app/src/main/res/layout/category.xml" qualifiers="" type="layout"/><file name="category_item" path="/Volumes/DATA/ytasks/YtasksAndroidStudio/app/src/main/res/layout/category_item.xml" qualifiers="" type="layout"/><file name="check_list_item" path="/Volumes/DATA/ytasks/YtasksAndroidStudio/app/src/main/res/layout/check_list_item.xml" qualifiers="" type="layout"/><file name="contact_item_view" path="/Volumes/DATA/ytasks/YtasksAndroidStudio/app/src/main/res/layout/contact_item_view.xml" qualifiers="" type="layout"/><file name="dialog_new_category" path="/Volumes/DATA/ytasks/YtasksAndroidStudio/app/src/main/res/layout/dialog_new_category.xml" qualifiers="" type="layout"/><file name="folder_item" path="/Volumes/DATA/ytasks/YtasksAndroidStudio/app/src/main/res/layout/folder_item.xml" qualifiers="" type="layout"/><file name="list_each_group_job" path="/Volumes/DATA/ytasks/YtasksAndroidStudio/app/src/main/res/layout/list_each_group_job.xml" qualifiers="" type="layout"/><file name="new_group_job_pop_up" path="/Volumes/DATA/ytasks/YtasksAndroidStudio/app/src/main/res/layout/new_group_job_pop_up.xml" qualifiers="" type="layout"/><file name="step_item" path="/Volumes/DATA/ytasks/YtasksAndroidStudio/app/src/main/res/layout/step_item.xml" qualifiers="" type="layout"/><file name="task_list_item" path="/Volumes/DATA/ytasks/YtasksAndroidStudio/app/src/main/res/layout/task_list_item.xml" qualifiers="" type="layout"/><file name="ytask_spinner_dropdown_item" path="/Volumes/DATA/ytasks/YtasksAndroidStudio/app/src/main/res/layout/ytask_spinner_dropdown_item.xml" qualifiers="" type="layout"/><file name="category" path="/Volumes/DATA/ytasks/YtasksAndroidStudio/app/src/main/res/menu/category.xml" qualifiers="" type="menu"/><file name="category_context_menu" path="/Volumes/DATA/ytasks/YtasksAndroidStudio/app/src/main/res/menu/category_context_menu.xml" qualifiers="" type="menu"/><file name="check_list_detail" path="/Volumes/DATA/ytasks/YtasksAndroidStudio/app/src/main/res/menu/check_list_detail.xml" qualifiers="" type="menu"/><file name="check_list_filter_result" path="/Volumes/DATA/ytasks/YtasksAndroidStudio/app/src/main/res/menu/check_list_filter_result.xml" qualifiers="" type="menu"/><file name="edit_task" path="/Volumes/DATA/ytasks/YtasksAndroidStudio/app/src/main/res/menu/edit_task.xml" qualifiers="" type="menu"/><file name="folder" path="/Volumes/DATA/ytasks/YtasksAndroidStudio/app/src/main/res/menu/folder.xml" qualifiers="" type="menu"/><file name="group_job" path="/Volumes/DATA/ytasks/YtasksAndroidStudio/app/src/main/res/menu/group_job.xml" qualifiers="" type="menu"/><file name="login" path="/Volumes/DATA/ytasks/YtasksAndroidStudio/app/src/main/res/menu/login.xml" qualifiers="" type="menu"/><file name="new_account" path="/Volumes/DATA/ytasks/YtasksAndroidStudio/app/src/main/res/menu/new_account.xml" qualifiers="" type="menu"/><file name="new_task" path="/Volumes/DATA/ytasks/YtasksAndroidStudio/app/src/main/res/menu/new_task.xml" qualifiers="" type="menu"/><file name="task" path="/Volumes/DATA/ytasks/YtasksAndroidStudio/app/src/main/res/menu/task.xml" qualifiers="" type="menu"/><file name="ytaskalarm" path="/Volumes/DATA/ytasks/YtasksAndroidStudio/app/src/main/res/raw/ytaskalarm.mp3" qualifiers="" type="raw"/><file path="/Volumes/DATA/ytasks/YtasksAndroidStudio/app/src/main/res/values/attrs.xml" qualifiers=""><declare-styleable name="ExpandableTextView">
+	<attr format="integer" name="trimLength"/>
+	</declare-styleable></file><file path="/Volumes/DATA/ytasks/YtasksAndroidStudio/app/src/main/res/values/dimens.xml" qualifiers=""><dimen name="activity_horizontal_margin">16dp</dimen><dimen name="activity_vertical_margin">16dp</dimen></file><file path="/Volumes/DATA/ytasks/YtasksAndroidStudio/app/src/main/res/values/strings.xml" qualifiers=""><string name="app_name">Ytasks</string><string name="action_settings">Settings</string><string name="hello_world">Hello world!</string><string name="hint_edittext_login_name">Email</string><string name="hint_edittext_login_pass">Password</string><string name="title_activity_folder">Task Manager</string><string name="title_activity_task">Task Manager</string><string name="title_activity_new_task">Create new Task</string><string name="title_activity_new_account">NewAccountActivity</string><string name="lbl_first_name">First Name</string><string name="lbl_last_name">Last Name</string><string name="lbl_password">Password</string><string name="lbl_phone">Phone</string><string name="lbl_birthday">Birthday</string><string name="lbl_facebook">Facebook</string><string name="lbl_email">Email</string><string name="btn_lbl_save">Save</string><string name="btn_lbl_add">Add</string><string-array name="status_array">
+        <item>New</item>
+        <item>In Progress</item>
+        <item>Resolved</item>
+        <item>Feedback</item>
+        <item>Closed</item>
+    </string-array><string-array name="task_type_array">
+        <item>Single Task </item>
+        <item>Check List</item>
+    </string-array><string-array name="priority_array">
+        <item>Low</item>
+        <item>Normal</item>
+        <item>Urgent</item>
+        <item>Immediate</item>
+    </string-array><string name="new_task_title">Title</string><string name="new_task_description">Description</string><string name="new_task_status">Status</string><string name="new_task_spend_time">Spend time</string><string name="new_task_start_day">Start day</string><string name="new_task_due_day">Due day</string><string name="new_task_done">Done</string><string name="new_task_priority">Priority</string><string name="title_activity_group_job">Group Jobs</string><string-array name="job_category_array">
+        <item>Work</item>
+        <item>Study</item>
+        <item>Travel</item>
+        <item>Cook</item>
+    </string-array><string name="numOfGvCategory">3</string><string name="action_select_category">Select</string><string name="action_create_category">Create</string><string name="action_edit_category">Edit</string><string name="action_delete_category">Delete</string><string name="title_activity_new_check_list">Create your check list</string><string name="title_activity_edit_task">Task Edit</string><string name="title_activity_check_list_detail">CheckListDetailActivity</string></file><file path="/Volumes/DATA/ytasks/YtasksAndroidStudio/app/src/main/res/values/styles.xml" qualifiers=""><style name="AppBaseTheme" parent="android:Theme.Light">
+        
+    </style><style name="AppTheme" parent="AppBaseTheme">
+        
+    </style></file><file path="/Volumes/DATA/ytasks/YtasksAndroidStudio/app/src/main/res/values-sw600dp/dimens.xml" qualifiers="sw600dp-v13"/><file path="/Volumes/DATA/ytasks/YtasksAndroidStudio/app/src/main/res/values-sw720dp-land/dimens.xml" qualifiers="sw720dp-land-v13"><dimen name="activity_horizontal_margin">128dp</dimen></file><file path="/Volumes/DATA/ytasks/YtasksAndroidStudio/app/src/main/res/values-v11/styles.xml" qualifiers="v11"><style name="AppBaseTheme" parent="android:Theme.Holo.Light">
+        
+    </style></file><file path="/Volumes/DATA/ytasks/YtasksAndroidStudio/app/src/main/res/values-v14/styles.xml" qualifiers="v14"><style name="AppBaseTheme" parent="android:Theme.Holo.Light.DarkActionBar">
+        
+    </style></file></source><source path="/Volumes/DATA/ytasks/YtasksAndroidStudio/app/build/generated/res/rs/debug"/><source path="/Volumes/DATA/ytasks/YtasksAndroidStudio/app/build/generated/res/resValues/debug"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="debug$Generated" generated="true" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="/Volumes/DATA/ytasks/YtasksAndroidStudio/app/src/debug/res"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="debug" generated-set="debug$Generated" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="/Volumes/DATA/ytasks/YtasksAndroidStudio/app/src/debug/res"/></dataSet><mergedItems><configuration qualifiers=""><declare-styleable name="GridLayout">
+
+        
+
+
+        
+        <attr name="orientation">
+
+            
+            <enum name="horizontal" value="0"/>
+            
+            <enum name="vertical" value="1"/>
+        </attr>
+        
+        <attr format="integer" name="rowCount"/>
+        
+        <attr format="integer" name="columnCount"/>
+        
+        <attr format="boolean" name="useDefaultMargins"/>
+        
+        <attr name="alignmentMode">
+
+            
+            <enum name="alignBounds" value="0"/>
+            
+            <enum name="alignMargins" value="1"/>
+        </attr>
+        
+        <attr format="boolean" name="rowOrderPreserved"/>
+        
+        <attr format="boolean" name="columnOrderPreserved"/>
+    </declare-styleable><declare-styleable name="ExpandableTextView">
+	<attr format="integer" name="trimLength"/>
+	</declare-styleable><declare-styleable name="GridLayout_Layout">
+
+        
+
+
+        
+
+        <attr name="android:layout_width"/>
+        <attr name="android:layout_height"/>
+        
+        <attr name="android:layout_margin"/>
+        
+        <attr name="android:layout_marginLeft"/>
+        
+        <attr name="android:layout_marginTop"/>
+        
+        <attr name="android:layout_marginRight"/>
+        
+        <attr name="android:layout_marginBottom"/>
+
+        
+
+
+        
+        <attr format="integer" name="layout_row"/>
+        
+        <attr format="integer" min="1" name="layout_rowSpan"/>
+        
+        <attr format="integer" name="layout_column"/>
+        
+        <attr format="integer" min="1" name="layout_columnSpan"/>
+        
+        <attr name="layout_gravity">
+
+            
+            <flag name="top" value="0x30"/>
+            
+            <flag name="bottom" value="0x50"/>
+            
+            <flag name="left" value="0x03"/>
+            
+            <flag name="right" value="0x05"/>
+            
+            <flag name="center_vertical" value="0x10"/>
+            
+            <flag name="fill_vertical" value="0x70"/>
+            
+            <flag name="center_horizontal" value="0x01"/>
+            
+            <flag name="fill_horizontal" value="0x07"/>
+            
+            <flag name="center" value="0x11"/>
+            
+            <flag name="fill" value="0x77"/>
+            
+            <flag name="clip_vertical" value="0x80"/>
+            
+            <flag name="clip_horizontal" value="0x08"/>
+            
+            <flag name="start" value="0x00800003"/>
+            
+            <flag name="end" value="0x00800005"/>
+        </attr>
+    </declare-styleable></configuration></mergedItems></merger>
