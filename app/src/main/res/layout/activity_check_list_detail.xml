@@ -11,21 +11,16 @@
     <ListView
         android:id="@+id/listTaskOfCheckList"
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:layout_above="@+id/btnAddTaskOnCheckList" >
-
-    </ListView>
+        android:layout_height="wrap_content" />
 
     <Button
         android:id="@+id/btnAddTaskOnCheckList"
         android:layout_width="fill_parent"
         android:layout_height="wrap_content"
-        android:layout_alignLeft="@+id/listTaskOfCheckList"
         android:layout_alignParentBottom="true"
-        android:layout_alignRight="@+id/listTaskOfCheckList"
+        android:layout_below="@id/btnAddTaskOnCheckList"
         android:text="@string/btn_lbl_add" 
         android:textColor="#ffffff"
-        
         android:background="@drawable/btn_login"/>
 
 </RelativeLayout>

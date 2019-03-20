@@ -1,11 +1,11 @@
 [
     {
-        "merged": "/Volumes/DATA/ytasks/YtasksAndroidStudio/app/build/intermediates/res/merged/debug/layout_contact_item_view.xml.flat",
-        "source": "/Volumes/DATA/ytasks/YtasksAndroidStudio/app/src/main/res/layout/contact_item_view.xml"
-    },
-    {
         "merged": "/Volumes/DATA/ytasks/YtasksAndroidStudio/app/build/intermediates/res/merged/debug/drawable-mdpi_btn_plus_mdpi.png.flat",
         "source": "/Volumes/DATA/ytasks/YtasksAndroidStudio/app/src/main/res/drawable-mdpi/btn_plus_mdpi.png"
+    },
+    {
+        "merged": "/Volumes/DATA/ytasks/YtasksAndroidStudio/app/build/intermediates/res/merged/debug/layout_contact_item_view.xml.flat",
+        "source": "/Volumes/DATA/ytasks/YtasksAndroidStudio/app/src/main/res/layout/contact_item_view.xml"
     },
     {
         "merged": "/Volumes/DATA/ytasks/YtasksAndroidStudio/app/build/intermediates/res/merged/debug/layout_activity_group_job.xml.flat",
@@ -32,12 +32,12 @@
         "source": "/Volumes/DATA/ytasks/YtasksAndroidStudio/app/src/main/res/drawable/btn_login.xml"
     },
     {
-        "merged": "/Volumes/DATA/ytasks/YtasksAndroidStudio/app/build/intermediates/res/merged/debug/menu_new_task.xml.flat",
-        "source": "/Volumes/DATA/ytasks/YtasksAndroidStudio/app/src/main/res/menu/new_task.xml"
-    },
-    {
         "merged": "/Volumes/DATA/ytasks/YtasksAndroidStudio/app/build/intermediates/res/merged/debug/layout_activity_new_check_list.xml.flat",
         "source": "/Volumes/DATA/ytasks/YtasksAndroidStudio/app/src/main/res/layout/activity_new_check_list.xml"
+    },
+    {
+        "merged": "/Volumes/DATA/ytasks/YtasksAndroidStudio/app/build/intermediates/res/merged/debug/menu_new_task.xml.flat",
+        "source": "/Volumes/DATA/ytasks/YtasksAndroidStudio/app/src/main/res/menu/new_task.xml"
     },
     {
         "merged": "/Volumes/DATA/ytasks/YtasksAndroidStudio/app/build/intermediates/res/merged/debug/menu_edit_task.xml.flat",

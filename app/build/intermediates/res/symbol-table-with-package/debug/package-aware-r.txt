@@ -97,7 +97,6 @@ id horizontal
 id imgAvatar
 id imgBtn_catagory
 id imgBtn_folder
-id layoutHeader
 id lblGroupDescription
 id lblGroupName
 id left
